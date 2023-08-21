@@ -24,9 +24,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={font.className}>
         <SupabaseProvider>
-          <ToasterProvider />
-          <ModalProvider />
           <UserProvider>
+            <ToasterProvider />
+            <ModalProvider />
             <Sidebar>{children}</Sidebar>
           </UserProvider>
         </SupabaseProvider>

@@ -763,6 +763,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/uniqid@npm:^5.3.2":
+  version: 5.3.2
+  resolution: "@types/uniqid@npm:5.3.2"
+  checksum: 001e0b03f29ee2e25729451a0012707e929a01ee06b092d23d1219d083dfeed556d2e119442f9e996414a77cdf99021230eb318ab4ed7f3bc5db46077cb54ff7
+  languageName: node
+  linkType: hard
+
 "@types/websocket@npm:^1.0.3":
   version: 1.0.5
   resolution: "@types/websocket@npm:1.0.5"
@@ -3843,6 +3850,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-hook-form@npm:^7.45.4":
+  version: 7.45.4
+  resolution: "react-hook-form@npm:7.45.4"
+  peerDependencies:
+    react: ^16.8.0 || ^17 || ^18
+  checksum: 1d84c78dadf561bc9e360272c5c856c724426162e13a74929c0517c3eb8004a7f057561fff3bfd4c1121b36d6cf1437399df1dbfd01d0817b9f922503f407d8f
+  languageName: node
+  linkType: hard
+
 "react-hot-toast@npm:^2.4.1":
   version: 2.4.1
   resolution: "react-hot-toast@npm:2.4.1"
@@ -4276,6 +4292,7 @@ __metadata:
     "@types/node": 20.5.1
     "@types/react": 18.2.20
     "@types/react-dom": 18.2.7
+    "@types/uniqid": ^5.3.2
     autoprefixer: 10.4.15
     eslint: 8.47.0
     eslint-config-next: 13.4.19
@@ -4283,6 +4300,7 @@ __metadata:
     postcss: 8.4.28
     react: 18.2.0
     react-dom: 18.2.0
+    react-hook-form: ^7.45.4
     react-hot-toast: ^2.4.1
     react-icons: ^4.10.1
     stripe: ^13.2.0
@@ -4290,6 +4308,7 @@ __metadata:
     tailwind-merge: ^1.14.0
     tailwindcss: 3.3.3
     typescript: 5.1.6
+    uniqid: ^5.4.0
     zustand: ^4.4.1
   languageName: unknown
   linkType: soft
@@ -4747,6 +4766,13 @@ __metadata:
     has-symbols: ^1.0.3
     which-boxed-primitive: ^1.0.2
   checksum: b7a1cf5862b5e4b5deb091672ffa579aa274f648410009c81cca63fed3b62b610c4f3b773f912ce545bb4e31edc3138975b5bc777fc6e4817dca51affb6380e9
+  languageName: node
+  linkType: hard
+
+"uniqid@npm:^5.4.0":
+  version: 5.4.0
+  resolution: "uniqid@npm:5.4.0"
+  checksum: 69fc28e7b2b5b24227b4295e51aa7c1d4085a60655ad071db8fc350876cc9044d68ee0781c0d27c2c98691380aa418970e0d1b02a1e4564480f9d19b0dc1707b
   languageName: node
   linkType: hard
 
