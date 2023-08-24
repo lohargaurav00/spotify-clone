@@ -22,7 +22,7 @@ export interface Product {
 
 export interface Price {
     id:string;
-    product_id?:boolean;
+    product_id?:string;
     active?:boolean;
     description?:string;
     unit_amount?:number;
