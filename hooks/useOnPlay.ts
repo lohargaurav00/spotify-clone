@@ -12,6 +12,8 @@ const useOnPlay = (songs: Song[]) => {
     if (!user) {
       return authModal.onOpen();
     }
+
+    //TODO: can add subscription to get listen songs
     player.setId(id);
     player.setIds(songs.map((song) => song.id));
   };

@@ -683,10 +683,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@stripe/stripe-js@npm:^2.1.0":
-  version: 2.1.0
-  resolution: "@stripe/stripe-js@npm:2.1.0"
-  checksum: e78f4f0f73ca9471fc73b1b10e9c7786c94c305d77a612ad9abe1993451a17a18315a031987cd9a3573bee348b25c7d95090496ee537f33c497954bcf8ddca1b
+"@stripe/stripe-js@npm:^1.53.0":
+  version: 1.54.2
+  resolution: "@stripe/stripe-js@npm:1.54.2"
+  checksum: d5c4a71383c33da3f3badd2ac03073a90250fc0e04b2ecd571f73f34db2266c9fdfc64947410845d58dce074547424bd133f8f24bf86de69dfeb73d140c0bdc8
   languageName: node
   linkType: hard
 
@@ -4476,7 +4476,7 @@ __metadata:
   dependencies:
     "@radix-ui/react-dialog": ^1.0.4
     "@radix-ui/react-slider": ^1.1.2
-    "@stripe/stripe-js": ^2.1.0
+    "@stripe/stripe-js": ^1.53.0
     "@supabase/auth-helpers-nextjs": ^0.7.4
     "@supabase/auth-helpers-react": ^0.4.2
     "@supabase/auth-ui-react": ^0.4.2
@@ -4498,7 +4498,7 @@ __metadata:
     react-hot-toast: ^2.4.1
     react-icons: ^4.10.1
     react-spinners: ^0.13.8
-    stripe: ^13.2.0
+    stripe: ^12.7.0
     supabase: ^1.86.2
     tailwind-merge: ^1.14.0
     tailwindcss: 3.3.3
@@ -4637,13 +4637,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stripe@npm:^13.2.0":
-  version: 13.2.0
-  resolution: "stripe@npm:13.2.0"
+"stripe@npm:^12.7.0":
+  version: 12.18.0
+  resolution: "stripe@npm:12.18.0"
   dependencies:
     "@types/node": ">=8.1.0"
     qs: ^6.11.0
-  checksum: 5febeebbce5c0586e6d5b9fecbe396f2fff03033609a3388d0a12a90a449efdb0a4abc34f6a66875dae3d0ff3711dad2e02bc5f1e5338a4a0877a54905074bad
+  checksum: 94f2457e4fa5b6dbe70c9282111ecc55cca6569308eebe873145afb18940c879e82d1ac6b1a29ad918771afdd63271007b13dafbd6163256b75c140016feef7e
   languageName: node
   linkType: hard
 
