@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import { BsPlayFill, BsPauseFill } from "react-icons/bs";
 import { AiFillStepBackward, AiFillStepForward } from "react-icons/ai";
 import { HiSpeakerWave, HiSpeakerXMark } from "react-icons/hi2";
+//@ts-ignore
 import useSound from "use-sound";
 
 import { Song } from "@/types";
